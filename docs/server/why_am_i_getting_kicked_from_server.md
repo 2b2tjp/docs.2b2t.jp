@@ -14,8 +14,8 @@
 | You are sending too many packets! [8, pps] | Sending too many arm animation packets | N/A (Unused) |
 | You are sending too many packets! [9, pps] | Sending too many custom packets | Remove mods that sends a lot of custom packets |
 | You are sending too many packets! [10, pps] | Sending too many window click packets | Turn off auto clicker or similar to that |
-| You are sending too many packets! [C] | Chest has too large NBT tag | Destroy it |
+| You are sending too many packets! [C] | Clicked chest has too large NBT tag | Destroy it |
 | You are sending too many packets! [EC] | Your ender chest is too large | Contact admin |
-| You are sending too many packets! [ET] | Entity has too large NBT tag | Kill it |
+| You are sending too many packets! [ET] | Clicked entity has too large NBT tag | Kill it |
 | Invalid packet! | Sending invalid packet like crash books, lag books | Don't create large books |
 | Invalid book data! | Sending invalid book data | Don't try to make crash books, or it's just bug |
