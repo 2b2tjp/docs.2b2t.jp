@@ -1,6 +1,6 @@
 # Why am I getting kicked from the server?
 
-| kick reason | meaning | how to avoid it |
+| kick reason | why? | how to avoid it |
 | --- | --- | --- |
 | You are sending too many packets! (pps: xxx) | Sending too many packets in some way, including just move packets. | Turn off Anti Fire, Fast things |
 | You are sending too many packets! [0, pps] | Sending too many custom packets | N/A (Does not kick player) |
