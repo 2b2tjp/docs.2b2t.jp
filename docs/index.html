@@ -44,8 +44,10 @@
   <script>
     window.$docsify = {
       name: '',
-      repo: '',
       loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
       repo: 'https://github.com/acrylic-style/2b2t.jp',
       plugins: [
         function(hook) {
