@@ -2,6 +2,7 @@
 
 ## Requirements
 - [Node.js](https://nodejs.org/)
+- Selfhosted status page (See: [Selfhosting the status page](/self-hosting/selfhosting-the-status-page))
 
 ## Optional
 - [yarn](https://yarnpkg.com/) (optional, but recommended. you can install via `npm i -g yarn`)
