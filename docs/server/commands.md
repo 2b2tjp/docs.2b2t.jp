@@ -4,6 +4,7 @@
 
 | Command | Aliases (if any) | What is it |
 | --- | --- | --- |
+| /help | | Show a link to this page |
 | /tell \<player\> | /w, /msg | Sends private message to a player |
 | /kill | /suicide | Kills yourself (without triggering totem of undying) |
 | /ignore \<player\> | /ignore add \<player\> | Don't show the chat messages of a player |
