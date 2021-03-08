@@ -10,7 +10,7 @@
 ## Run the bot
 
 ### Quick start
-- Clone https://github.com/acrylic-style/2b2t.jp-bot
+- Clone https://github.com/2b2tjp/2b2t.jp-bot
 - Modify `.env`
   - `prefix` - prefix, you can run commands with `<prefix><command>`
   - `token` - the bot token ([discord developer portal](https://discord.com/developers/applications/))

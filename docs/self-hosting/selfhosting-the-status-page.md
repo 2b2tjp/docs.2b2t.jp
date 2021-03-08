@@ -9,7 +9,7 @@
 
 ## Run status page
 
-First, clone or download [this repository](https://github.com/acrylic-style/status.2b2t.jp). ([Download ZIP](https://github.com/acrylic-style/status.2b2t.jp/archive/master.zip))
+First, clone or download [this repository](https://github.com/2b2tjp/status.2b2t.jp). ([Download ZIP](https://github.com/2b2tjp/status.2b2t.jp/archive/master.zip))
 
 Now, your repository folder should look like this:
 
