@@ -6,3 +6,4 @@ Also, we won't give op to anyone. Don't ask us about giving away op EVER. You ma
 
 ## See also
 - [Server Commands](/server/commands)
+- [Why am I getting kicked from server](/server/why_am_i_getting_kicked_from_server)
