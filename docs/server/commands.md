@@ -4,6 +4,7 @@
 
 | Command | Aliases (if any) | What is it |
 | --- | --- | --- |
+| /help | | Show a link to this page |
 | /tell \<player\> | /w, /msg | Sends private message to a player |
 | /kill | /suicide | Kills yourself (without triggering totem of undying) |
 | /ignore \<player\> | /ignore add \<player\> | Don't show the chat messages of a player |
@@ -28,9 +29,7 @@
 
 ## Commands available to donators (VIP, HyperVIP)
 
-**Important: These commands are not implemented yet**
-
 | Command | Aliases | What is it |
 | --- | --- | --- |
-| /prefix | | Set prefix shown on your chat messages. |
-| /suffix | | Set suffix shown on your chat messages. |
+| /prefix | | Set prefix shown on your chat messages. Half-width alphanumeric characters cannot be used. |
+| /suffix | | Set suffix shown on your chat messages. Half-width alphanumeric characters cannot be used. |
