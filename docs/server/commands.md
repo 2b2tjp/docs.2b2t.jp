@@ -20,6 +20,7 @@
 | --- | --- | --- |
 | /regenerate | | Regenerates broken end portal |
 | /togglechat | | Toggle whether the chat messages are shown or hidden (Chat messages from admins are still shown) |
+| /toggledeath | | Toggle whether the death messages are shown or hidden |
 
 ## Commands available to donators (Diamond, VIP, HyperVIP)
 | Command | Aliases (if any) | What is it |
