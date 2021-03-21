@@ -27,6 +27,7 @@
 | --- | --- | --- |
 | /namecolor | | Changes the color of your name |
 | /chatcolor | | Changes the color of chat messages |
+| /deathcolor | | Changes the color of death messages |
 
 ## Commands available to donators (VIP, HyperVIP)
 
